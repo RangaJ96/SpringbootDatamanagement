@@ -1,1 +1,1 @@
-# XtremeUser
+# The StudentManger Project
